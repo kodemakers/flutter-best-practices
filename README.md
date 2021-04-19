@@ -1,3 +1,4 @@
 # Best Practices for Flutter
 
-coming soon
+## App Logo
+Use Android Studio || XCode for generating Logo for App
